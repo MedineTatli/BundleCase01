@@ -1,0 +1,8 @@
+main\cron\BundleScheduler.class
+main\BundleServiceApplication.class
+main\configuration\swagger\SwaggerConfiguration.class
+main\service\MessageConsumeService.class
+main\service\RandomGeneratorService.class
+main\controller\BundleController.class
+main\service\BundleService.class
+main\service\MessageService.class
